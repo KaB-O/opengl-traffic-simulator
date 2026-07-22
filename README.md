@@ -15,14 +15,16 @@ A real-time 3D City Traffic Simulation built with Python and OpenGL.
 - OpenGL, GLUT, GLU
 - Real-time rendering and simulation
 
-### How to Run
-```bash
-pip install PyOpenGL PyOpenGL_accelerate
-python traffic_simulator.py
-
-**Controls:**
+### Controls:
 
 - 1-4 : Select car at start
 - Arrow Keys : Drive (Left/Right to steer, Up/Down to accelerate)
 - V : Change camera view
 - Space : Pause/Resume
+
+
+### How to Run
+```bash
+pip install PyOpenGL PyOpenGL_accelerate
+python traffic_simulator.py
+
