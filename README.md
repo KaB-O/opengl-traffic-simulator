@@ -22,6 +22,7 @@ python traffic_simulator.py
 
 **Controls:**
 
-1-4 : Select car at start
-Arrow Keys : Drive
-V : Change camera view
+- 1-4 : Select car at start
+- Arrow Keys : Drive (Left/Right to steer, Up/Down to accelerate)
+- V : Change camera view
+- Space : Pause/Resume
